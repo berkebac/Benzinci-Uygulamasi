@@ -1,0 +1,41 @@
+﻿<Page x:Class="WpfApplication1.Pages.YakıtAlımıPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApplication1.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="YakıtAlımıPage">
+    <Page.Resources>
+        <DataTemplate x:Key="DataTemplate1">
+            <Grid Height="41" RenderTransformOrigin="0.5,0.5" Width="49">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Image x:Name="image" Source="{Binding Logo}"/>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid Background="SkyBlue">
+        <DataGrid x:Name="dg" AutoGenerateColumns="False" Background="SkyBlue">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn ClipboardContentBinding="{x:Null}" Header="Logo" CellTemplate="{StaticResource DataTemplate1}"/>
+                <DataGridTextColumn Binding="{Binding Zaman, StringFormat=hh:mm}" ClipboardContentBinding="{x:Null}" Header="Alınan Zaman"/>
+                <DataGridTextColumn Binding="{Binding Araç.Plaka}" ClipboardContentBinding="{x:Null}" Header="Plaka"/>
+                <DataGridTextColumn Binding="{Binding Pompa.YakıtTürü.YakıtTürüAdı}" ClipboardContentBinding="{x:Null}" Header="Yakıt Türü"/>
+                <DataGridTextColumn Binding="{Binding Miktar}" ClipboardContentBinding="{x:Null}" Header="Alınan Miktar"/>
+                <DataGridTextColumn Binding="{Binding BirimFiyat}" ClipboardContentBinding="{x:Null}" Header="Birim Fiyat"/>
+                <DataGridTextColumn Binding="{Binding OdenicekTutar, StringFormat=\{0:F\}}" ClipboardContentBinding="{x:Null}" Header="Ücret"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>

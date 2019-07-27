@@ -1,0 +1,99 @@
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\Db.mdf
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\Db_log.ldf
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.dll
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.xml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\PompaKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\YakitTürüKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\PompaKayıtPage.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\YakitTürüKayıtPage.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\AraçKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\YakıtAlımıPage.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\AraçKayıtPage.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\YakıtAlımıPage.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\YakıtAlımıKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\YakıtAlımıKayıtPage.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\StokDurumuPage.g.cs
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\Pages\StokDurumuPage.baml
+D:\Ogrenci Dosyalari\56\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\Db.mdf
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\Db_log.ldf
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.dll
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.xml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\AraçKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\PompaKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\StokDurumuPage.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakitTürüKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıKayıtPage.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıPage.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\App.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\AraçKayıtPage.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\PompaKayıtPage.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\StokDurumuPage.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakitTürüKayıtPage.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıKayıtPage.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıPage.baml
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Ogrenci Dosyalari\56\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\Db.mdf
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\Db_log.ldf
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.dll
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.xml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\AraçKayıtPage.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\PompaKayıtPage.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\StokDurumuPage.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakitTürüKayıtPage.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıKayıtPage.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıPage.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\App.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\AraçKayıtPage.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\PompaKayıtPage.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\StokDurumuPage.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakitTürüKayıtPage.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıKayıtPage.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\Pages\YakıtAlımıPage.baml
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Program Files (x86)\Okul Dosyaları\11.sınıf ntp\VeriTabanı Benzincı\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

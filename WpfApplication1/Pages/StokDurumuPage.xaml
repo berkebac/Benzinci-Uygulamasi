@@ -1,0 +1,28 @@
+﻿<Page x:Class="WpfApplication1.Pages.StokDurumuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApplication1.Pages"
+      mc:Ignorable="d"
+      Title="StokDurumuPage" Height="297.561" Width="476.83">
+    <Page.Resources>
+        <DataTemplate x:Key="DataTemplate1">
+            <Grid Height="37" Width="39">
+                <Image x:Name="image" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="39" Source="{Binding Logo}"/>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid Background="SkyBlue">
+        <DataGrid x:Name="dg" AutoGenerateColumns="False" Background="SkyBlue">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn ClipboardContentBinding="{x:Null}" Header="Logo" CellTemplate="{StaticResource DataTemplate1}"/>
+                <DataGridTextColumn Binding="{Binding PompaNo}" ClipboardContentBinding="{x:Null}" Header="Pompa No "/>
+                <DataGridTextColumn Binding="{Binding YakıtTürü.YakıtTürüAdı}" ClipboardContentBinding="{x:Null}" Header="Yakıt Türü"/>
+                <DataGridTextColumn Binding="{Binding YakıtTürü.Stok}" ClipboardContentBinding="{x:Null}" Header="Stok"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>
